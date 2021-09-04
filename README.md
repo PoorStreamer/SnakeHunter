@@ -1,2 +1,2 @@
-# SnakeHunder
+# SnakeHunter
 A VR game
